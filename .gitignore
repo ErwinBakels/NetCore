@@ -1,0 +1,31 @@
+# DSharp GitIgnore File
+# 22-12-2019
+
+# User-specific files
+*.suo
+*.user
+!*.user/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+
+
+# Visual Studio cache/options directory
+.vs/
+
+CleanBuild.exe
+CleanCode.exe
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# The packages folder can be ignored because of Package Restore
+**/packages/*
